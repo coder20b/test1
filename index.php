@@ -11,8 +11,8 @@
     </header>
     <main>
         <section>
-            <h2>titre section hello</h2>
-            <h4>titre 4 pour le dev 2</h4>
+            <h2>titre section coucou</h2>
+            <h3>titre 3</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam voluptatibus repellendus consequatur dolor ipsa dolorem, unde doloribus nam. Eos ex ducimus, error quidem natus voluptatum? Voluptate ipsam placeat veniam maxime.</p>
         </section>
     </main>
